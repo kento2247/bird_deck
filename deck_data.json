@@ -1,0 +1,282 @@
+{
+    "0": {
+        "description": "The American Coot is a large, water-loving bird with a distinctive lobed foot that helps it swim with grace and agility",
+        "height": "0.38 m",
+        "weight": "0.8 kg",
+        "name": "American Coot",
+        "img_path": "2e734e4bb21a4240abb256e389900f27_jpg.rf.eb8e24966142d09811bee90f73d4a6bc"
+    },
+    "1": {
+        "description": "The American Goldfinch (Breeding Male) is a small, vibrant yellow bird with a cheerful song and a fondness for thistle seeds",
+        "height": "0.12 m",
+        "weight": "0.014 kg",
+        "name": "American Goldfinch (Breeding Male)",
+        "img_path": "04c175e1ab2747b48c93ef997c5e31e7_jpg.rf.6fcdb386e6e20e3d9695892126930c1d"
+    },
+    "2": {
+        "description": "The American Goldfinch (Female/Nonbreeding Male) is a small bird with a duller yellow-brown plumage and a delicate appetite for seeds",
+        "height": "0.12 m",
+        "weight": "0.014 kg",
+        "name": "American Goldfinch (Female/Nonbreeding Male)",
+        "img_path": "2bec4bcd33af460f996938f84d19bc4a_jpg.rf.67a41b05e1bb56f6b5376576b64e0521"
+    },
+    "3": {
+        "description": "The Barred Owl is a nocturnal bird with a distinctive hooting call and striking dark eyes, often found in wooded areas",
+        "height": "0.53 m",
+        "weight": "1.05 kg",
+        "name": "Barred Owl",
+        "img_path": "00df8fe61b994bde83ee032edb74fc33_jpg.rf.42ef1d99073e4b6f7ca22fd3bc46bb71"
+    },
+    "4": {
+        "description": "The Black Phoebe is a small, sooty-colored bird with a sleek appearance and a preference for perching near water",
+        "height": "0.16 m",
+        "weight": "0.021 kg",
+        "name": "Black Phoebe",
+        "img_path": "4c291f617ef04afbb7c7f141cdb580cb_jpg.rf.ca6fc2fa4e76ff603bc268e83a2df403"
+    },
+    "5": {
+        "description": "The Black-and-white Warbler is a small bird with striking black and white stripes, known for its distinctive habit of creeping along tree trunks",
+        "height": "0.13 m",
+        "weight": "0.011 kg",
+        "name": "Black-and-white Warbler",
+        "img_path": "2c1f0b44ac2a4d94b110598fbceb1cd0_jpg.rf.3a5eeef7bd793fad5be739c19b153d25"
+    },
+    "6": {
+        "description": "The Black-throated Green Warbler is a small, active bird with a bright green back and a contrasting black throat, often found in coniferous forests",
+        "height": "0.12 m",
+        "weight": "0.01 kg",
+        "name": "Black-throated Green Warbler",
+        "img_path": "0e1ed5c708814bfdb12f6a53500e74f0_jpg.rf.0ac19a6da9b0366bfe1aafe1e172579b"
+    },
+    "7": {
+        "description": "The Blue Jay is a medium-sized bird with vibrant blue feathers and a loud, jay-jay call, known for its intelligence and complex social behaviors",
+        "height": "0.3 m",
+        "weight": "0.1 kg",
+        "name": "Blue Jay",
+        "img_path": "0f88634c2d6e4411bbf4bd12729d2be2_jpg.rf.37e1dc6bc8772b8ce1857b5d42d7f6ea"
+    },
+    "8": {
+        "description": "The Blue-gray Gnatcatcher is a tiny, agile bird with a distinctive blue-gray color and a thin, long tail, often seen flitting through tree branches",
+        "height": "0.11 m",
+        "weight": "0.0075 kg",
+        "name": "Blue-gray Gnatcatcher",
+        "img_path": "4bf1106a7f1f4cfebb4dfd25854f8623_jpg.rf.a251b60c811710ae6538273833af44fd"
+    },
+    "9": {
+        "description": "The Brewer's Blackbird (Male) is a medium-sized bird with a glossy black plumage and a distinctive yellow eye, often found in open areas",
+        "height": "0.25 m",
+        "weight": "0.06 kg",
+        "name": "Brewers Blackbird (Male)",
+        "img_path": "0f2ffcdb7b6b40c48d875d9840ccee8c_jpg.rf.d5aebc6d7890900ca24ad88b228fb926"
+    },
+    "10": {
+        "description": "The Bushtit is a tiny, social bird with a fluffy appearance and a penchant for traveling in flocks, often seen in wooded areas",
+        "height": "0.11 m",
+        "weight": "0.005 kg",
+        "name": "Bushtit",
+        "img_path": "0dcf8a35e45145e597aa0cc790a7c293_jpg.rf.ac3d408a06d26a1b3f2def7d65576b8c"
+    },
+    "11": {
+        "description": "The Carolina Wren is a small, energetic bird with a distinctive white eyebrow stripe and a loud, teakettle-teakettle call",
+        "height": "0.14 m",
+        "weight": "0.02 kg",
+        "name": "Carolina Wren",
+        "img_path": "6ed43aa9a5784bb6beb3981aa0cb2ac8_jpg.rf.2b90581faac69750fda26aef514b0bee"
+    },
+    "12": {
+        "description": "The Chipping Sparrow (Breeding) is a small bird with a distinctive rufous cap and a clear, trilling song, often seen in open woodlands",
+        "height": "0.14 m",
+        "weight": "0.013 kg",
+        "name": "Chipping Sparrow (Breeding)",
+        "img_path": "8c7cf14717804d5c8ddf5ea23ff03ac9_jpg.rf.e6e2ddb66d639e6f28146ad6b376a5f8"
+    },
+    "13": {
+        "description": "The Common Tern is a medium-sized seabird with a slender body and a graceful flight, known for its striking black cap and red bill",
+        "height": "0.31 m",
+        "weight": "0.12 kg",
+        "name": "Common Tern",
+        "img_path": "4e984d5631f64ece8a2e7a6fd7b31dc3_jpg.rf.36d29fdb7247459ce18e2e63b403213e"
+    },
+    "14": {
+        "description": "The Common Yellowthroat (Adult Male) is a small warbler with a bright yellow throat and a distinctive black mask, often found in marshy areas",
+        "height": "0.13 m",
+        "weight": "0.01 kg",
+        "name": "Common Yellowthroat (Adult Male)",
+        "img_path": "00b775ebfe4149b292e9a9955cf1042b_jpg.rf.289622a9fae4641a9eab371020786395"
+    },
+    "15": {
+        "description": "The Eastern Kingbird is a medium-sized bird with a bold black-and-white plumage and an aggressive nature, often seen perching conspicuously",
+        "height": "0.21 m",
+        "weight": "0.04 kg",
+        "name": "Eastern Kingbird",
+        "img_path": "0c5a770e3f57463f84a9897407744692_jpg.rf.5186f098b0a6cc50043535c9d46ae1a9"
+    },
+    "16": {
+        "description": "The Eastern Phoebe is a small, plump bird with a distinctive tail-wagging habit and a soft, phoebe call, often found near water",
+        "height": "0.18 m",
+        "weight": "0.02 kg",
+        "name": "Eastern Phoebe",
+        "img_path": "8feb7eb491b7438c95ad11271cc2efa7_jpg.rf.11cd7d64620f2a3e3b614ce8f3bb6b85"
+    },
+    "17": {
+        "description": "The Forster's Tern is a medium-sized seabird with a slender body and a graceful flight, known for its distinctive black cap and white underparts",
+        "height": "0.33 m",
+        "weight": "0.14 kg",
+        "name": "Forsters Tern",
+        "img_path": "66e1c752eb8b4ba2b6f27bb786e73555_jpg.rf.0ebf782c58808fac2b6c771d258e7572"
+    },
+    "18": {
+        "description": "The Hermit Thrush is a small, brown bird with a distinctive reddish tail and a melodious, flute-like song, often found in wooded areas",
+        "height": "0.17 m",
+        "weight": "0.03 kg",
+        "name": "Hermit Thrush",
+        "img_path": "0a1f60271cab490abc7188393d15901a_jpg.rf.a43fab3fc28dc28254916960d5fc3bb4"
+    },
+    "19": {
+        "description": "The Lesser Yellowlegs is a medium-sized shorebird with long, bright yellow legs and a slender bill, often seen wading in shallow water",
+        "height": "0.28 m",
+        "weight": "0.08 kg",
+        "name": "Lesser Yellowlegs",
+        "img_path": "6d2548b1aab5418c9f9857e6d6729eb2_jpg.rf.fac54c6a53d2b260cfaf9ded95ffb767"
+    },
+    "20": {
+        "description": "The Little Blue Heron (Adult) is a medium-sized wading bird with a slate-blue plumage and a distinctive pale blue bill, often found in marshes",
+        "height": "0.56 m",
+        "weight": "0.4 kg",
+        "name": "Little Blue Heron (Adult)",
+        "img_path": "3e6c2df51159493a9931a9529a5ba7fb_jpg.rf.89bab7dd04ea503d80bd9b742fbbf833"
+    },
+    "21": {
+        "description": "The Mallard (Breeding male) is a large duck with a glossy green head and a distinctive white neck ring, often seen in ponds and lakes",
+        "height": "0.6 m",
+        "weight": "1.2 kg",
+        "name": "Mallard (Breeding male)",
+        "img_path": "6b43bebfdbdf4810ba8b9c984234847d_jpg.rf.82ab604424fb35d8b85059b0632037c9"
+    },
+    "22": {
+        "description": "The Northern Cardinal (Adult Male) is a medium-sized bird with a vibrant red plumage and a distinctive crest, often seen in gardens and woodlands",
+        "height": "0.22 m",
+        "weight": "0.045 kg",
+        "name": "Northern Cardinal (Adult Male)",
+        "img_path": "34dba1a00c334ddcb66ad413db571dbd_jpg.rf.d9ecd410c12949035c3ff32707ea8c98"
+    },
+    "23": {
+        "description": "The Northern Harrier (Female/immature) is a medium-sized raptor with a distinctive white rump patch and an owl-like facial disc, often seen gliding low over fields",
+        "height": "0.5 m",
+        "weight": "0.65 kg",
+        "name": "Northern Harrier (Female/immature)",
+        "img_path": "7a4a5a73c27048e396485ff5bc025e69_jpg.rf.8fe803de17c57998513f6e31cc649849"
+    },
+    "24": {
+        "description": "The Northern Mockingbird is a medium-sized bird with a grayish plumage and a remarkable ability to mimic the songs of other birds",
+        "height": "0.25 m",
+        "weight": "0.055 kg",
+        "name": "Northern Mockingbird",
+        "img_path": "1d5488cc85544aff80f8aae97925c56d_jpg.rf.24a08ec65f39ad2844590347f6472c80"
+    },
+    "25": {
+        "description": "The Northern Shoveler (Breeding male) is a medium-sized duck with a distinctive spoon-shaped bill and striking plumage",
+        "height": "0.48 m",
+        "weight": "0.66 kg",
+        "name": "Northern Shoveler (Breeding male)",
+        "img_path": "0fe47627ad6d41efaf8dec70c7fdc439_jpg.rf.24903ec3977fdb5a1f4beb61a379a07d"
+    },
+    "26": {
+        "description": "The Prairie Warbler is a small, active bird with a bright yellow underside and distinctive black streaks on its face",
+        "height": "0.12 m",
+        "weight": "0.009 kg",
+        "name": "Prairie Warbler",
+        "img_path": "5dceab7484734eabadd2e70880878b5d_jpg.rf.601b79a67e667aebf2d7ec6dbd6db1c7"
+    },
+    "27": {
+        "description": "The Red-bellied Woodpecker is a medium-sized bird with striking black-and-white barred plumage and a distinctive red cap",
+        "height": "0.24 m",
+        "weight": "0.09 kg",
+        "name": "Red-bellied Woodpecker",
+        "img_path": "3bc35bbe3fb74b368e7b17d6e45d3732_jpg.rf.04ecf105d9216bcfba8248f0b2fe6f87"
+    },
+    "28": {
+        "description": "The Red-breasted Nuthatch is a small, agile bird with a distinctive red breast and a fondness for climbing down tree trunks headfirst",
+        "height": "0.11 m",
+        "weight": "0.01 kg",
+        "name": "Red-breasted Nuthatch",
+        "img_path": "6f836f1e4a884ddd90e8d5b478e66944_jpg.rf.9ef2a6236bd6e162cf7cf94d65966054"
+    },
+    "29": {
+        "description": "The Red-tailed Hawk (Light morph adult) is a large raptor with a distinctive red tail and broad wings, often seen soaring in open areas",
+        "height": "0.56 m",
+        "weight": "1.25 kg",
+        "name": "Red-tailed Hawk (Light morph adult)",
+        "img_path": "7f9c2c73dff74a8c98e28dc02233555d_jpg.rf.4582a52d0a365bfe2b43ce09be0d5a5f"
+    },
+    "30": {
+        "description": "The Red-winged Blackbird (Female/juvenile) is a medium-sized bird with a streaked brown plumage and a distinctive call",
+        "height": "0.22 m",
+        "weight": "0.05 kg",
+        "name": "Red-winged Blackbird (Female/juvenile)",
+        "img_path": "3e40d15981b0423bac8736ac1ecd8e9a_jpg.rf.9f405a6f04acc464a95346a8f6681279"
+    },
+    "31": {
+        "description": "The Rose-breasted Grosbeak (Adult Male) is a medium-sized bird with striking black-and-white plumage and a bright red chest",
+        "height": "0.2 m",
+        "weight": "0.047 kg",
+        "name": "Rose-breasted Grosbeak (Adult Male)",
+        "img_path": "0ca8d9fcff9a48d9b39a9164a64deecc_jpg.rf.ae8cb4d0bb77117d5da87f7213a5b214"
+    },
+    "32": {
+        "description": "The Ruby-crowned Kinglet is a tiny, energetic bird with a distinctive red crown that is often hidden, known for its rapid wing-flicking",
+        "height": "0.09 m",
+        "weight": "0.006 kg",
+        "name": "Ruby-crowned Kinglet",
+        "img_path": "0a165ea2545f46b5b1f27f9881004a5a_jpg.rf.da586f1afd7e36de5d6ba7db0dc482d7"
+    },
+    "33": {
+        "description": "The Short-billed Dowitcher is a medium-sized shorebird with a long, straight bill and a distinctive sewing machine-like feeding style",
+        "height": "0.28 m",
+        "weight": "0.1 kg",
+        "name": "Short-billed Dowitcher",
+        "img_path": "6ea7f37437134f5286f964d22fcebbe9_jpg.rf.5ca34115237240b934b1093af2746258"
+    },
+    "34": {
+        "description": "The Song Sparrow is a small, streaked bird with a distinctive melodic song and a broad geographic range across North America",
+        "height": "0.15 m",
+        "weight": "0.022 kg",
+        "name": "Song Sparrow",
+        "img_path": "3b243e5408034c29af424037c2118495_jpg.rf.41915ef49c91eb3fba6971223e499114"
+    },
+    "35": {
+        "description": "The Western Meadowlark is a medium-sized bird with striking yellow underparts and a distinctive black V on its chest, known for its beautiful song",
+        "height": "0.26 m",
+        "weight": "0.1 kg",
+        "name": "Western Meadowlark",
+        "img_path": "0a51a179cd1c4539a44e71e6ab043de1_jpg.rf.90560e73a8d61b02a51fb0ba4d4e0f93"
+    },
+    "36": {
+        "description": "The White-breasted Nuthatch is a small, agile bird with a distinctive white breast and a habit of climbing down tree trunks headfirst",
+        "height": "0.14 m",
+        "weight": "0.02 kg",
+        "name": "White-breasted Nuthatch",
+        "img_path": "0a9434f4f26046b5b80c1b3b48f344d6_jpg.rf.b312ceade09dc66be699a440915225f4"
+    },
+    "37": {
+        "description": "The White-crowned Sparrow (Adult) is a medium-sized sparrow with distinctive black and white stripes on its head and a clear, whistled song",
+        "height": "0.17 m",
+        "weight": "0.026 kg",
+        "name": "White-crowned Sparrow (Adult)",
+        "img_path": "71b81ebd09374d7fb8bfc4e46a4728fd_jpg.rf.7911363ce313efb2137f7199ffc61703"
+    },
+    "38": {
+        "description": "The Wild Turkey is a large, ground-dwelling bird with a fan-shaped tail and a distinctive gobbling call, often seen in flocks",
+        "height": "1.1 m",
+        "weight": "8.5 kg",
+        "name": "Wild Turkey",
+        "img_path": "0e624da6a6984d60835a0253b7b42ba5_jpg.rf.bf42fa6cafa0d181bfc2df2f99532f09"
+    },
+    "39": {
+        "description": "The Wilson's Warbler is a small, energetic bird with a bright yellow body and a distinctive black cap, often found in dense undergrowth",
+        "height": "0.12 m",
+        "weight": "0.008 kg",
+        "name": "Wilsons Warbler",
+        "img_path": "4b399b659dd549aba0c34af5b0eb8441_jpg.rf.ba962ee7af7b5fc849e382e61a01fa44"
+    }
+}

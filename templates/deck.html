@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pokemon Screen</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=DotGothic16&display=swap");
+
+      body {
+        background-color: #f2ebd4;
+        font-family: "DotGothic16", sans-serif;
+        /* Use DotGothic16 font */
+      }
+
+      .container {
+        width: 300px;
+        border: 2px solid #c0b090;
+        padding: 10px;
+        margin: 20px auto;
+        background-color: #fffff8;
+        position: relative;
+      }
+
+      .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 2px solid #c0b090;
+        padding-bottom: 5px;
+        margin-bottom: 10px;
+      }
+
+      .header div {
+        font-size: 12px;
+        font-weight: bold;
+      }
+
+      .content {
+        font-size: 12px;
+        position: relative;
+      }
+
+      .content div {
+        margin: 5px 0;
+      }
+
+      .content p {
+        margin: 5px 0;
+      }
+
+      .highlight {
+        background-color: #e0dfc4;
+        padding: 5px;
+        border-radius: 3px;
+      }
+
+      .inline {
+        display: flex;
+        align-items: center;
+      }
+
+      .inline div {
+        margin-right: 10px;
+      }
+
+      .icon {
+        width: 100px;
+        height: auto;
+      }
+
+      #middle-line {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+      }
+
+      #description {
+        flex: 1;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <div>Bird</div>
+      </div>
+      <div id="middle-line">
+        <div id="description">
+          <div class="inline">
+            <div>{{ no }}</div>
+            <div>{{ name }}</div>
+          </div>
+          <div>Height: {{ height }}</div>
+          <div>Weight: {{ weight }}</div>
+        </div>
+        <img src="{{ image_src }}" alt="{{ name }} Icon" class="icon" />
+      </div>
+      <div class="content">
+        <p class="highlight">{{ description }}</p>
+      </div>
+    </div>
+  </body>
+</html>
